@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "impressiveautomation",
+    "name": "ImpressiveAutomation",
+    "description": "A mod that adds programmable controllers.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "mincrmatt12",
+      "dmf444"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
